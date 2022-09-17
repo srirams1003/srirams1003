@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sriram Suresh.
+- 👋 Hi, I’m Sriram.
 - 👀 I’m interested in WebDev, DevOps, and Data Science.
 - 🌱 I’m currently looking for full-time jobs starting from Summer 2023.
 
