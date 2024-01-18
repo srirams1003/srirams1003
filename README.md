@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sriram.
 - 👀 I’m interested in WebDev, DevOps, and Data Science.
-- 🌱 I’m currently looking for full-time jobs starting from Summer 2023.
+- 🌱 I’m currently looking for internships for Summer 2024.
 
 <!---
 srirams1003/srirams1003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
