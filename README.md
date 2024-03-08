@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sriram.
-- 👀 I’m interested in WebDev, DevOps, and Data Science.
+- 👀 I’m interested in WebDev, DevOps, and Distributed Systems.
 - 🌱 I’m currently looking for internships for Summer 2024.
 
 <!---
